@@ -4,12 +4,12 @@ This project is an end-to-end handwritten digit recognizer built with a Convolut
 
 The model is trained on the classic MNIST dataset and uses data augmentation to improve its ability to generalize to real-world handwriting. The project culminates in an interactive web application built with Streamlit, allowing users to draw a digit and see the model's prediction in real-time.
 
-![App Screenshot](images/Screenshot 2025-09-17 192853.png)
-![App Screenshot](images/Screenshot 2025-09-17 210554.png)
-![App Screenshot](images/Screenshot 2025-09-17 210607.png)
-![App Screenshot](images/Screenshot 2025-09-17 211207.png)
-![App Screenshot](images/Screenshot 2025-09-17 211219.png)
-![App Screenshot](images/Screenshot 2025-09-17 211242.png)
+![App Screenshot](images/1.png)
+![App Screenshot](images/2.png)
+![App Screenshot](images/3.png)
+![App Screenshot](images/4.png)
+![App Screenshot](images/5.png)
+![App Screenshot](images/6.png)
 
 ---
 
