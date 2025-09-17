@@ -27,8 +27,8 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/your-repo-name.git](https://github.com/YOUR_USERNAME/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/Krishnaa2327/handwritten-digit-recognizer.git
+    cd handwritten-digit-recognizer
     ```
 
 2.  **Create and activate a virtual environment:**
